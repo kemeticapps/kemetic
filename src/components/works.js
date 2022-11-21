@@ -33,7 +33,7 @@ const Works = () => {
           <div className="grid lg:grid-cols-12 grid-cols-1 gap-8 items-center">
             <div className="xl:col-span-6 lg:col-span-8 flex flex-row items-center gap-8 lg:pr-8">
               <h2 className="lg:text-display-lg text-display-md font-semibold lg:pl-10">
-                Portfolio
+                Our Recent Work
               </h2>
             </div>
           </div>
