@@ -1,0 +1,22 @@
+[
+  {
+    "image": "../images/portfolio/realestate.png",
+    "title": "Kemetic Real Estate App",
+    "description": "Nibh tellus ut suspendisse porttitor. Vivamus sit tincidunt bibendum a etiam fringilla quis nisl. Amet eget et, lacus, ullamcorper lectus ullamcorper amet."
+  },
+  {
+    "image": "../images/portfolio/reva.jpg",
+    "title": "Reva - Skin Care Website",
+    "description": "Luctus adipiscing mattis non mi, sollicitudin dapibus ullamcorper id interdum. Ultrices est proin augue pellentesque maecenas vel. Habitasse id egestas eu a amet a velit facilisis."
+  },
+  {
+    "image": "../images/portfolio/food.jpg",
+    "title": "Food Dilvery App",
+    "description": "Non amet, lacus, rutrum elementum ut id dictum. Imperdiet ullamcorper nisi vulputate et. Ipsum, curabitur viverra faucibus tristique mattis sapien sed aenean purus."
+  },
+  {
+    "image": "../images/portfolio/chatbot.png",
+    "title": "Kemet Chat Bot",
+    "description": "Lectus adipiscing pharetra integer auctor varius. Tincidunt integer auctor vitae fusce amet leo massa. Pretium bibendum adipiscing dictum vitae."
+  }
+]

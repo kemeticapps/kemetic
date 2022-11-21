@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-primary-600 {
+  --tw-bg-opacity: 1;
+  background-color: #000000;
+}
+
+.container1 {
+  top: 720px;
+  left: 112px;
+  width: 1216px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.line {
+  top: 24px;
+  left: 0px;
+  width: 1216px;
+  height: 0px;
+  position: absolute;
+}
+.arrow-container {
+  top: 0px;
+  left: 576px;
+  width: 64px;
+  display: flex;
+  padding: 8px 16px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-white);
+}
+
+.ornament11 {
+  top: 250px;
+  right: 0;
+  position: absolute;
+}
+.ornament18 {
+  top: 170px;
+  left: 85px;
+  position: absolute;
+}
+
+img.logo {
+  max-width: 150px;
+}
+
+.container.mx-auto.navbar {
+  box-shadow: 0 2px 4px 0 rgb(0 0 0 / 20%);
+  max-width: 100% !important;
+
+}
+
+.text-neutral-700 {
+  cursor: crosshair;
+}
+
+.text-body-sm {
+  font-size: 19px;
+}
+
+@media (max-width: 768px){
+
+  .ornament18 {
+    top: 150px;
+    left: 10px;
+    position: absolute;
+    width: 100px;
+  }
+  .ornament11 {
+    top: 250px;
+    right: 0;
+    position: absolute;
+    width: 50px;
+  }
+
+  }
+
+
+  .hover\:text-primary-kemet:hover { color: rgb(255 204 150);}
+
+  .gatsby-image-wrapper [data-main-image] {
+
+    border-radius: 35px;
+  }
+@layer base {
+  @layer utilities {
+    body {
+      @apply text-neutral-900;
+    }
+  }
+}
