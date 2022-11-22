@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Bruno Simmons – Digital Designer`,
-    description: `A minimal digital designer portfolio template. Made by Landify.`,
-    siteUrl: `https://landify.design`, // Replace with your domain name
-    author: `@landifydesign`, // Replace with your twitter handle
+    title: `Kemetic Studio`,
+    description: `Kemetic Studio Website.`,
+    siteUrl: `https://kemetic.studio`, // Replace with your domain name
+    author: `Kemetic Studio`, // Replace with your twitter handle
   },
   plugins: [
     `gatsby-plugin-postcss`,
